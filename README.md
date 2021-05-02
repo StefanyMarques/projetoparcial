@@ -1,0 +1,2 @@
+# projetoparcial
+Projeto parcial DBE
